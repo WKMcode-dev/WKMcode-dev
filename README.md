@@ -1,3 +1,14 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=7c3aed&text=Kenneth&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65"/>
+
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+.NET+%7C+TypeScript+%7C+C%2B%2B;CyberSecurity+Student;Always+Learning+New+Technologies"/>
+
+</p>
+
 <h1 align="center">👋 Olá, eu sou Kenneth</h1>
 
 <h3 align="center">
