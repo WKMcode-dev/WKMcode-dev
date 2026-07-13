@@ -1,52 +1,87 @@
-# 👋 Olá! Eu sou o Kenneth (WKMcode)
+<h1 align="center">
+Olá 👋, eu sou Kenneth
+</h1>
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia, performance e arquitetura de software.
-
-🦊 Atualmente desenvolvendo:
-- Dashboard Analítico (React + .NET)
-- Portfólio Moderno
-- Aplicações Desktop
-- Ferramentas em C++
-- Estudos em Cibersegurança e Linux
-
----
-
-# 🚀 Tecnologias
+<h3 align="center">
+💻 Full Stack Developer • C++ • .NET • React • TypeScript
+</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,ts,js,react,vite,nodejs,html,css,python,mysql,sqlite,git,github,docker,linux,kali,windows,vscode,visualstudio,figma&perline=11" />
-  </a>
+Apaixonado por desenvolvimento de software, arquitetura, performance e cibersegurança.
 </p>
-
----
-
-# 📚 Atualmente estudando
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,docker,linux&perline=6" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WKMcode-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKMcode-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
----
+<p align="center">
 
-# ❤️ Áreas de interesse
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WKMcode-dev&theme=tokyonight"/>
 
-- Desenvolvimento Full Stack
-- Desktop Applications
-- Engenharia de Software
-- Arquitetura de Sistemas
-- APIs REST
-- Banco de Dados
-- Cibersegurança
-- Linux
-- Performance
-- UX/UI
-- Open Source
+</p>
 
----
+<p align="center">
 
-# 📫 Contato
+<img src="https://github-profile-trophy.vercel.app/?username=WKMcode-dev&theme=tokyonight&column=4"/>
 
-- GitHub: https://github.com/WKMcode-dev
+</p>
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<a href="https://skillicons.dev">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,ts,js,react,vite,nodejs,html,css,python,mysql,sqlite,git,github,docker,linux,kali,windows,vscode,visualstudio,figma&perline=11"/>
+
+</a>
+
+</p>
+
+## 🦊 Sobre mim
+
+- 💻 Desenvolvedor Full Stack
+- 🚀 Apaixonado por arquitetura de software
+- ⚙️ Desenvolvendo projetos em React, .NET e C++
+- 🛡️ Estudando Cibersegurança e Linux
+- 🎮 Apaixonado por games e otimização de desempenho
+
+## 📂 Projetos em destaque
+
+🚍 BusDF
+
+Dashboard analítico para comparação de dados da SEMOB e Transdata.
+
+⚡ Portfolio
+
+Meu portfólio desenvolvido em React + Vite.
+
+🎮 MecchaCamouflage
+
+Ferramentas em C++ para Unreal Engine.
+
+📱 Portable Draw
+
+Aplicação mobile inspirada no Excalidraw.
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WKMcode-dev&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/WKMcode-dev/WKMcode-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=WKMcode-dev&color=blueviolet&style=for-the-badge"/>
+
+</p>
